@@ -8,7 +8,7 @@ I am a PhD candidate in the [ARGO team](https://www.di.ens.fr/argo/content/team.
 
 | Project | Research question | Resources |
 | --- | --- | --- |
-| **Variance-Reduced Unlearning** · ICML 2026 | How can forget-set gradients improve the convergence of unlearning algorithms? | [Paper](https://arxiv.org/abs/2602.14938) · [Code](https://github.com/M-VanWaerebeke/variance-reduced-unlearning) |
+| **Variance-Reduced Unlearning** · ICML 2026 | How can forget-set gradients, a cornerstone of empirical unlearning, be used in certified unlearning? | [Paper](https://arxiv.org/abs/2602.14938) · [Code](https://github.com/M-VanWaerebeke/variance-reduced-unlearning) |
 | **When to Forget?** · ICML 2025 | When is unlearning computationally cheaper than retraining? | [Paper](https://proceedings.mlr.press/v267/van-waerebeke25a.html) |
 | **SIFU** · AISTATS 2024 | Efficient client unlearning in federated optimization, with provable guarantees. | [Paper](https://proceedings.mlr.press/v238/fraboni24a.html) · [Code](https://github.com/M-VanWaerebeke/SIFU-AISTATS2024/tree/SIFU) |
 | **Multi-class segmentation uncertainty** · UNSURE 2022 | How can uncertainty estimates account for overlap between classes? | [Paper](https://arxiv.org/abs/2203.03587) · [Code](https://github.com/M-VanWaerebeke/Bhatta_UAMT) |
